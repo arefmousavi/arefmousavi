@@ -10,6 +10,7 @@
 - 🔬 I’m a graduate researcher at the **Robust and Interpretable Machine Learning (RIML) Lab**, under the supervision of **Prof. Mohammad Hossein Rohban**.
 - 🧠 My research interests include **trustworthy machine learning, adversarial robustness, speech foundation models, and representation learning**.
 - 🤝 I also work with **Prof. Mohammad Sabokrou** on adversarial robustness and representation learning for speech foundation models.
+- 🎓 Previously, I received my **B.Sc. in Electrical Engineering (Control)** from **Isfahan University of Technology**, where I conducted research under the supervision of **Prof. Mohammad Reza Ahmadzadeh**.
 - 👯 I’m open to collaborating on interesting machine learning research projects.
 
 **Keywords:** `Machine Learning` · `Deep Learning` · `Trustworthy AI` · `Adversarial Robustness` · `Speech Foundation Models` · `Representation Learning`
