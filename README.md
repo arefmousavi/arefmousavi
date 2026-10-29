@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 I’m an M.Sc. student in **Computer Engineering (Artificial Intelligence)** at **Sharif University of Technology**.
+- 🎓 I’m an M.Sc. student in **Artificial Intelligence** at **Sharif University of Technology**.
 - 🔬 I’m a graduate researcher at the **Robust and Interpretable Machine Learning (RIML) Lab**, under the supervision of **Prof. Mohammad Hossein Rohban**.
 - 🧠 My research interests include **trustworthy machine learning, adversarial robustness, speech foundation models, and representation learning**.
 - 🤝 I also work with **Prof. Mohammad Sabokrou** on adversarial robustness and representation learning for speech foundation models.
