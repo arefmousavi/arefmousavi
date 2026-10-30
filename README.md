@@ -8,8 +8,8 @@
 
 - 🎓 I’m an M.Sc. student in **Artificial Intelligence** at **Sharif University of Technology**.
 - 🔬 I’m a graduate researcher at the **Robust and Interpretable Machine Learning (RIML) Lab**, under the supervision of **Prof. Mohammad Hossein Rohban**.
-- 🧠 My research interests include **trustworthy machine learning, adversarial robustness, speech foundation models, and representation learning**.
-- 🤝 I also work with **Prof. Mohammad Sabokrou** on adversarial robustness and representation learning for speech foundation models.
+- 🧠 My research focuses on **trustworthy machine learning**, particularly **adversarial robustness, model security, and robust representation learning**, with a special interest in **speech foundation models**.
+- 🤝 I also work with **Prof. Mohammad Sabokrou** on trustworthy machine learning, adversarial robustness, and representation learning for speech foundation models.
 - 🎓 Previously, I received my **B.Sc. in Electrical Engineering** from **Isfahan University of Technology**, where I conducted research under the supervision of **Prof. Mohammad Reza Ahmadzadeh**.
 - 👯 I’m open to collaborating on interesting machine learning research projects.
 
